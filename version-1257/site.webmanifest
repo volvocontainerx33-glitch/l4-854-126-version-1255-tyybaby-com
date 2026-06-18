@@ -1,0 +1,9 @@
+{
+  "name": "高清日韩影片",
+  "short_name": "高清日韩影片",
+  "description": "整理高清日韩影片栏目，覆盖电影、剧集相关影片与精选分类。",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0d9488"
+}
